@@ -3,3 +3,5 @@
 #
 # Also remember that I wrote all of the code myself but Codecademy still has rights to the design itself so use it at own risk!
 # For me it's just a fun way to code.
+#
+# All of the CSS is in the <style> in HTML.
